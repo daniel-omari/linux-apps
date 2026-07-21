@@ -14,6 +14,7 @@ $fi com.bitwarden.desktop
 $fi io.github.shiftey.Desktop # Github Desktop
 $fi org.flameshot.Flameshot # Screenshot tool
 $fi com.visualstudio.code
+$fi io.gitlab.librewolf-community # secure internet browser
 
 
 ## Security / Privacy (Optionals)
